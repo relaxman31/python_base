@@ -1,0 +1,4 @@
+Os info is 
+ uname_result(system='Windows', node='HOME-PC', release='10', version='10.0.19041', machine='AMD64', processor='AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD')
+
+Python version is 3.8.1 (tags/v3.8.1:1b293b6, Dec 18 2019, 22:39:24) [MSC v.1916 32 bit (Intel)] ('32bit', 'WindowsPE')
